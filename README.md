@@ -183,7 +183,7 @@ The system successfully demonstrated automatic irrigation, real-time monitoring,
 ## Project Images
 
 
-![Hardware Prototype](hardware.jpg)
+![Hardware Prototype](hardware.jpeg)
 
 ## Applications
 
